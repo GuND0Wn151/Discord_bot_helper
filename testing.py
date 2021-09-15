@@ -2,7 +2,7 @@ import discord
 from functions.pokemon import *
 from functions.emoji import *
 bot = discord.Client()
-token = "ODEyNzE3NTM4MzQ5NDE2NDUw.YDE0MA.vpkTGJ9znG6jB2hlnXNy1WE-fUg"
+token = "token"
 
 
 # def emoji_enter(blocked_user, data):
